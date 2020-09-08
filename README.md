@@ -1,5 +1,5 @@
-Financial Engineering with Artificial Intelligence in Python
-============================================================
+Financial Engineering and Artificial Intelligence in Python
+===========================================================
 
 Link to the course:
 
