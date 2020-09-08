@@ -1,3 +1,4 @@
+# https://www.udemy.com/course/ai-finance
 import random
 import pandas as pd
 import os

@@ -1,3 +1,4 @@
+# https://www.udemy.com/course/ai-finance
 import pandas as pd
 from glob import glob
 
