@@ -3,9 +3,7 @@ Financial Engineering and Artificial Intelligence in Python
 
 Link to the course:
 
-https://www.udemy.com/course/ai-finance/?couponCode=FINANCEVIP
-
-NOTE: If the above coupon has expired, just go to https://lazyprogrammer.me.
+https://deeplearningcourses.com/c/ai-finance
 
 Most of the course is done using Google Colab. This repository contains supplementary files such as data downloaders and references.
 
