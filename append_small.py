@@ -60,7 +60,7 @@ for symbol in small_symbols:
     if full_df is None:
       full_df = df
     else:
-      full_df = full_df.append(df, ignore_index=True)
+      full_df = pd.concat([full_df, df], ignore_index=True)  # Utilisation de pd.concat
+      # full_df = full_df.append(df, ignore_index=True)
 
 full_df.to_csv('sp500sub.csv', index=False)
-
